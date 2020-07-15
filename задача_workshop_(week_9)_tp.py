@@ -65,6 +65,7 @@ from sklearn.model_selection import train_test_split
 
 # define function to load train, test, and validation datasets
 def load_dataset(path):
+    print("load dataset code change")
     data = load_files(path)
     dog_files = np.array(data['filenames'])
     dog_targets = np_utils.to_categorical(np.array(data['target']), 133)
