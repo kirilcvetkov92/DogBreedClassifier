@@ -64,7 +64,7 @@ from keras.utils import np_utils
 import keras
 from sklearn.model_selection import train_test_split
 
-
+print("balblala")
 # define function to load train, test, and validation datasets
 def load_dataset(path):
     print("load dataset code change")
