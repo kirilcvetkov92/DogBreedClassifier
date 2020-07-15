@@ -64,19 +64,6 @@ from keras.utils import np_utils
 import keras
 from sklearn.model_selection import train_test_split
 
-print("hello World")
-print("hello2")
-print("hello World")
-print("hello2")
-print("hello World")
-print("hello2")
-
-
-print("hello World")
-print("hello2")
-
-print("hello World")
-print("hello2")
 
 # define function to load train, test, and validation datasets
 def load_dataset(path):
