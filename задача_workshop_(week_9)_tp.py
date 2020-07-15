@@ -41,7 +41,7 @@ The task is considered as solved once you get >=70% accuracy on validation data
 
 # Download data
 """
-print("dsadasdsa")
+
 print("hello World")
 print("hello2")
 !wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
