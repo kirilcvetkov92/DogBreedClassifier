@@ -145,7 +145,7 @@ model = ResNet50(include_top=False, input_shape=(224,224,3), weights='imagenet')
 av_pool = GlobalAveragePooling2D()(model.output)
 class1 = Dense(1000, activation='relu')(av_pool)
 normaliz = BatchNormalization()(class1)
-class2 = Dense(500, activation='relu')(normaliz)
+class2 = Dense(520, activation='relu')(normaliz)
 normaliz1 = BatchNormalization()(class2)
 outputs = Dense(133, activation='softmax')(normaliz1)
 
