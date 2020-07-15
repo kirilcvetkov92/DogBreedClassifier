@@ -9,7 +9,7 @@
 
 
 # DogBreedClassifier
-Dog Breed Classifier implementation in Keras
+Dog Breed Classifier implementation in Keras.  
 Овде пишуваме некој опис на проектот
 ---
 
