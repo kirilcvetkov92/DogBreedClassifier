@@ -1,7 +1,23 @@
+
+[//]: # (Image References)
+
+
+[image1]: https://img.youtube.com/vi/GR8-EztBI9I/0.jpg "Video1"
+[image2]: https://img.youtube.com/vi/GR8-EztBI9I/0.jpg "Video2"
+[image3]: https://img.youtube.com/vi/GR8-EztBI9I/0.jpg "Video3"
+
+
+
 # DogBreedClassifier
 Dog Breed Classifier implementation in Keras
 Овде пишуваме некој опис на проектот
 ---
+
+| Video1      | Vide2 | Video3 |
+| ----------- | ----------- | ----------- |
+| [![image1]](https://www.youtube.com/watch?v=GR8-EztBI9I)   | [![image2]](https://www.youtube.com/watch?v=GR8-EztBI9I)    | [![image3]](https://www.youtube.com/watch?v=GR8-EztBI9I)      |
+
+
 
 **Пример болд текст** primer tekst.   
 *Primer italic текст* primer tekst 2
@@ -55,7 +71,6 @@ model.summary()
 | Точност на Training      | Точност на тест | Точност на валидација |
 | ----------- | ----------- | ----------- |
 | 90%      | 87%       |87%       |
-
 
 
 На Академијата за Data Science ќе се стекнеш со клучните дисциплини во  оваа област како.
